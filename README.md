@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,4 +106,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
