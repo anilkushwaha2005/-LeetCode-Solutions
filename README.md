@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anilkushwaha2005/-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
